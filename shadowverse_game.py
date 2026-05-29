@@ -1,6 +1,6 @@
 """
 シャドーバース風カードゲーム 戦闘システム
-改訂版
+claude code改訂版
 """
 
 import random
